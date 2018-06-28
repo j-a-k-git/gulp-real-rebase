@@ -1,0 +1,27 @@
+{
+  "name": "gulp-real-rebase",
+  "version": "1.0.0",
+  "description": "css url rebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnyan-kakati/gulp-real-rebase.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Jnyan Ankur Kakati (mail2mimon@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnyan-kakati/gulp-real-rebase/issues"
+  },
+  "homepage": "https://github.com/jnyan-kakati/gulp-real-rebase#readme",
+  "dependencies": {
+    "rework": "^1.0.1",
+    "rework-plugin-url": "^1.1.0",
+    "through2": "^2.0.3"
+  }
+}
